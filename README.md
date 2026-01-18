@@ -32,3 +32,10 @@ Key Features
 Simple Interaction: Handles basic greetings, questions about the bot's identity, and inquiries about AI.
 Robust Matching: Uses logical OR operators (e.g., hi|hello|hey) to catch various phrasing of similar intent.
 Exit Condition: Includes a specific rule to detect "bye" or "goodbye" to gracefully terminate the conversation loop
+
+
+OUTPUT
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1007" height="440" alt="Task1" src="https://github.com/user-attachments/assets/111f3b34-1b56-4b4f-b56f-85620085a7f3" />
+
