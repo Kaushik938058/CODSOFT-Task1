@@ -4,6 +4,8 @@ ID:BY25RY255105
 Project Title: Chatbot with Rule-Based Responses
 Domain: Artificial Intelligence
 
+OVERVIEW OF THE PROJECT
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Objective
 The primary goal of this project is to build a simple chatbot that interacts with users by processing inputs and generating responses based on a predefined set of rules. This project aims to demonstrate a fundamental understanding of Natural Language Processing (NLP) and conversation flow.
 
