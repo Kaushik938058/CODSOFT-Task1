@@ -1,7 +1,11 @@
 Name:Kaushik
+
 Company:CODSOFT
+
 ID:BY25RY255105
+
 Project Title: Chatbot with Rule-Based Responses
+
 Domain: Artificial Intelligence
 
 OVERVIEW OF THE PROJECT
